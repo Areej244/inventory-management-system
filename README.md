@@ -49,21 +49,29 @@ inventory-system/
 
 ## Screenshots
 
-| Login | Register |
-|---|---|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+### Login and Register
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/login.png" alt="Login page" width="100%"></td>
+    <td width="50%"><img src="screenshots/register.png" alt="Register page" width="100%"></td>
+  </tr>
+</table>
 
-| Dashboard | Products (Admin) |
-|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Products](screenshots/products.png) |
+### Dashboard
+<img src="screenshots/dashboard.png" alt="Dashboard with stats and recent activity" width="800">
 
-| Add Product | Users (Admin only) |
-|---|---|
-| ![Add Product](screenshots/add-product.png) | ![Users](screenshots/users.png) |
+### Products (Admin view)
+Search, category and stock filters, edit and delete buttons, and pagination.
 
-| Staff access restriction |
-|---|
-| ![Staff access](screenshots/staff-access.png) |
+<img src="screenshots/products.png" alt="Products list for admin" width="800">
+
+### Add Product
+<img src="screenshots/add-product.png" alt="Add product form" width="800">
+
+### Staff access restriction
+Staff users get no Delete button and are blocked from admin-only pages.
+
+<img src="screenshots/staff-access.png" alt="Staff view with restricted access" width="800">
 
 ## Author
 **Areej Khan** – Web Development Intern at Devixo Solutions
