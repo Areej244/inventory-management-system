@@ -1,5 +1,7 @@
 # 📦 InventoryPro – Inventory Management System
 
+🌐 **Live demo:** https://inventorypro-areej.rf.gd/inventory-system/
+
 A full-stack inventory management web application built for **Devixo Solutions – Web Development Internship (Task 04)**.
 
 ## Features
